@@ -1,0 +1,4 @@
+name: TemplateBukkitPlugin
+version: '${project.version}'
+main: me.nologic.plugin.TemplateBukkitPlugin
+api-version: '1.20'
