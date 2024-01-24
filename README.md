@@ -8,3 +8,5 @@ Plugin template for **Bukkit**. Contains all the most necessary plugins and libr
 * **ACF (Annotation Command Framework)**
 * **VaultAPI**
 * **Lombok**
+* **ProtocolLib**
+* **ProtocolSidebar**
