@@ -1,19 +1,19 @@
 package me.nologic.plugin;
 
 import lombok.Getter;
-import org.bukkit.plugin.java.JavaPlugin;
+import me.nologic.minority.MinorityExtension;
 
 @Getter
-public final class TemplateBukkitPlugin extends JavaPlugin {
+public final class TemplateBukkitPlugin extends MinorityExtension {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        // ..?
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        // ..?
     }
+
 }
